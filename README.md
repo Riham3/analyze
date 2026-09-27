@@ -82,6 +82,10 @@ Everything is processed locally in your web browser. Your text is not uploaded, 
 Report bugs or request features on Riham Blogs' [Submit Feedback](https://cigarettesprettysmokes.pages.dev/feedback/) page.
  
 ## Desktop Preview
- 
-## Mobile Preview
- 
+<img width="2208" height="1156" alt="IMG_4562" src="https://github.com/user-attachments/assets/3383a721-faca-4236-acf3-7da6532e3968" />
+
+## Mobile Preview (Zoomed Out)
+<img width="1242" height="2067" alt="IMG_4560" src="https://github.com/user-attachments/assets/3776c582-ae7e-4c09-94a2-072bfa1d3d42" />
+
+## Exported Word Cloud
+<img width="1920" height="1080" alt="IMG_4527" src="https://github.com/user-attachments/assets/0822c1fb-3eb8-4638-a036-80713ef07323" />
